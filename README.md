@@ -19,7 +19,7 @@ A collection of data science coursework, labs, and projects from IS 296 (Data Sc
 | Lab | File | Topic |
 |-----|------|-------|
 | 04 | `lab04.ipynb` | Data visualization with FitBit exercise data |
-| 09 | `Lab09/Lab09.pdf` | Lab 09 (PDF format) |
+| 09 | `Lab09/Lab09.pdf` | Lab 09 assignment (PDF) |
 | 10 | `lab10/lab10.ipynb` | Simulation and iteration using NBA player/salary data and text analysis |
 | 11 | `lab11-assessing-model-template(stress).ipynb` | Model assessment template using simulation-based hypothesis testing |
 | 12 | `Personal_Informatics/lab12/` | Permutation testing |
