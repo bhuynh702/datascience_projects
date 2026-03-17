@@ -34,6 +34,18 @@ A collection of data science labs, homework, and projects covering statistical i
 | `Personal_Informatics/lab12-permutationtest/` | Permutation testing and correlation analysis |
 | `Personal_Informatics/lab13-estimation/` | Bootstrapping and the Central Limit Theorem |
 
+### Career and Lifestyle Analysis
+
+| Path | Description |
+|---|---|
+| `Career_and_Lifestyle_Analysis/Final Deliverable/Data_Story_Brittany.ipynb` | Data story notebook by Brittany |
+| `Career_and_Lifestyle_Analysis/Final Deliverable/Data_Story_Car.ipynb` | Data story notebook by Car |
+| `Career_and_Lifestyle_Analysis/Final Deliverable/Data_Storyboard.pdf` | Final data storyboard |
+| `Career_and_Lifestyle_Analysis/Final Deliverable/Sleep_health_and_lifestyle_dataset.csv` | Sleep, health, and lifestyle dataset |
+| `Career_and_Lifestyle_Analysis/Data Insights/` | Weekly mini updates and compiled data insights |
+| `Career_and_Lifestyle_Analysis/Project_Description_Rubric.pdf` | Project description and rubric |
+| `Career_and_Lifestyle_Analysis/Project_task_tracking_sheet.pdf` | Task tracking sheet |
+
 ### Project
 
 | Directory | Description |
